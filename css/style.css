@@ -1,0 +1,6 @@
+.fixed-top{
+    background-color:#000 !important;
+}
+#img1, #img2, #img3, #oculta1, #oculta2, #oculta3{
+    display: none;
+}
